@@ -60,3 +60,52 @@ This hands-on project was developed to strengthen practical skills in Windows Se
 ## Screenshots
 
 Screenshots of the infrastructure and configurations will be added to demonstrate the implementation and testing of each component.
+
+
+## Lab Screenshots
+
+### 1. Hyper-V Infrastructure
+![Hyper-V Virtual Machines](screenshots/HYPER-V.png)
+
+### 2. Active Directory Organizational Units
+![Active Directory OUs](screenshots/OU.png)
+
+### 3. Active Directory Security Groups
+![Security Groups](screenshots/GROUP.png)
+
+### 4. DNS Forward Lookup Zone
+![DNS Forward Lookup](screenshots/DNS.png)
+
+### 5. DNS Reverse Lookup Zone
+![DNS Reverse Lookup](screenshots/DNS-INVERSER.png)
+
+### 6. File Server Shares
+![Shared Folders](screenshots/file-server-shares.png)
+
+### 7. NTFS Permissions
+![NTFS Permissions](screenshots/ntfs-permissions.png)
+
+### 8. Share Permissions
+![Share Permissions](screenshots/share-permissions.png)
+
+### 9. Group Policy Overview
+![GPO Overview](screenshots/gpo-overview.png)
+
+### 10. Control Panel Restriction
+![GPO Control Panel](screenshots/gpo-control-panel.png)
+
+### 11. Automatic Drive Mapping
+![GPO Drive Mapping](screenshots/GPO-DRIVE-MAPPING.png)
+
+### 12. Windows 11 Client Verification
+![Client Drive Mapping](screenshots/gpo-client-test.png)
+
+### 13. Volume Shadow Copies
+![Shadow Copies](screenshots/shadow-copies.png)
+
+### 14. Windows Server Backup
+![Windows Server Backup](screenshots/windows-server-backup.png)
+
+### 15. Backup Virtual Disk
+![Backup Disk](screenshots/backup-disk.png)
+  
