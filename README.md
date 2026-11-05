@@ -57,11 +57,6 @@ The lab simulates a small business IT environment with centralized identity mana
 
 This hands-on project was developed to strengthen practical skills in Windows Server administration, IT infrastructure management, troubleshooting, and technical support.
 
-## Screenshots
-
-Screenshots of the infrastructure and configurations will be added to demonstrate the implementation and testing of each component.
-
-
 ## Lab Screenshots
 
 ### 1. Hyper-V Infrastructure
